@@ -1,0 +1,49 @@
+form {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(88, 6, 6);
+    font-weight: 600;
+}
+.content {
+    width: 50vw;
+    min-height: 80vh;
+    display: flex;
+    flex-direction:  
+    column;
+    margin-bottom: 5vh;
+}
+.inputs {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1vh;
+}
+input,textarea,select{
+    padding: 1.5vh 1vw;
+    font-family: inherit;
+    font-size: 2.2vh;
+}
+input, textarea {
+    width: 30vw;
+}
+select {
+    width: 32.5vw;
+}
+
+.addRecipeBtn{
+    width: 15vw;
+    height: 7vh;
+    margin: 2vh 25vw;
+    padding: 1vh;
+    font-family: inherit;
+    font-size: 2.3vh;
+}
+.addRecipeBtn:hover {
+    color: aliceblue;
+    background-color: rgb(125, 124, 124);
+    border: none;
+    font-size: 2.5vh;
+}

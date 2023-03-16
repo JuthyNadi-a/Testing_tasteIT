@@ -1,0 +1,85 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Kacchi biriyani",
+      "author": "Nabila",
+      "country": "https://flagcdn.com/bd.svg",
+      "description": "Snacks item. Made in special occassions.",
+      "image": "https://media.istockphoto.com/id/1291627079/fi/valokuva/bengalin-lampaan-biryani-tarjoillaan-salaatin-ja-raitan-kanssa.jpg?s=612x612&w=0&k=20&c=CjmQBUnurWWl91_fmQ49lMGuU3oiisIApKj8iaX4_wY=",
+      "ingredients": [
+        {
+          "ingredient": "pulse seed",
+          "quantity": "1/2 kg"
+        },
+        {
+          "ingredient": "water",
+          "quantity": ".5 l"
+        },
+        {
+          "ingredient": "Rice",
+          "quantity": "1 kg"
+        },
+        {
+          "ingredient": "Egg",
+          "quantity": "3"
+        }
+      ],
+      "instructions": "Boil pulse seeds and rice in water for an hour. Mix well."
+    },
+    {
+      "id": 2,
+      "name": "Chotpoti",
+      "author": "Nadia",
+      "country": "https://flagcdn.com/bd.svg",
+      "description": "Snacks item. Made in special occassions.",
+      "image": "https://media.istockphoto.com/id/1323098892/fi/valokuva/lautasellinen-chotpotia-maukasta-kuuluisaa-katuruokaa.jpg?s=612x612&w=0&k=20&c=ZiRCbKxfxezvOJjkL34NVdKCRhaiCI3DchIC2_SEXZ8=",
+      "ingredients": [
+        {
+          "ingredient": "pulse seed",
+          "quantity": "1 kg"
+        },
+        {
+          "ingredient": "water",
+          "quantity": ".5 l"
+        },
+        {
+          "ingredient": "Potato",
+          "quantity": "4"
+        },
+        {
+          "ingredient": "Egg",
+          "quantity": "3"
+        }
+      ],
+      "instructions": "Boil pulse seeds in water for an hour. Boil the potatos and egg separartely. Smash the potatos. Mix well."
+    },
+    {
+      "id": 3,
+      "name": "Cake",
+      "author": "Ronita",
+      "country": "https://flagcdn.com/fi.svg",
+      "description": "Snacks item. Made in special occassions.",
+      "image": "https://media.istockphoto.com/id/1327828405/fi/valokuva/herkullinen-kakkuviipale.jpg?s=612x612&w=0&k=20&c=qE7uTt7BGaBSM96x0KH36wv6RQvAfNUwKkDAhm6MtXo=",
+      "ingredients": [
+        {
+          "ingredient": "Coco powder",
+          "quantity": "4 cup"
+        },
+        {
+          "ingredient": "water",
+          "quantity": ".5 l"
+        },
+        {
+          "ingredient": "Flour",
+          "quantity": "4 cup"
+        },
+        {
+          "ingredient": "Egg",
+          "quantity": "3"
+        }
+      ],
+      "instructions": ""
+    }
+  ]
+}
