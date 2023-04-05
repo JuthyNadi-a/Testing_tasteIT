@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --transformIgnorePatterns 'node_modules/(?!my-library-dir)/'",
+    "test": "react-scripts test",
     "eject": "react-scripts eject",
     "server": "json-server -p3007 --watch recipes.json"
   },
@@ -45,5 +45,10 @@
     "@babel/preset-env": "^7.20.2",
     "@testing-library/react": "^14.0.0",
     "react-test-renderer": "^18.2.0"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "axios": "axios/dist/node/axios.cjs"
+    }
   }
 }

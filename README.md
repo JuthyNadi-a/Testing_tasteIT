@@ -37,4 +37,5 @@ npm install
 npm start 
 ```
 
-App opens at http://localhost:3000 in browser.
+App opens at http://localhost:3000 in browser.,
+   --transformIgnorePatterns \"node_modules/(?!axios)/\"
