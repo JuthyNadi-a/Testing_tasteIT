@@ -34,8 +34,14 @@ In order to run client, run below command
 
 ```
 npm install
-npm start 
+npm start
 ```
 
 App opens at http://localhost:3000 in browser.,
-   --transformIgnorePatterns \"node_modules/(?!axios)/\"
+--transformIgnorePatterns \"node_modules/(?!axios)/\"
+
+## adding automation
+
+```
+ github workflow
+```
